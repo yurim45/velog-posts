@@ -1,7 +1,7 @@
 <h1 id="velog-to-github">velog to github</h1>
 <ul>
 <li><a href="https://github.com/yurim45/velog-posts">https://github.com/yurim45/velog-posts</a></li>
-<li>다음 레포지토리와 동일하게 셋팅 후, python 파일에서 자기 벨로그 주소를 적고, 권한 설정만 해주면 벨로그에 쓴 글을 자동으로 깃허브에 작성해준다.</li>
+<li>다음 레포지토리와 동일하게 셋팅 후, python 파일에서 자기 벨로그 주소를 적고, 권한 설정만 해주면 벨로그에 쓴 글을 자동으로 깃허브에 작성해준다</li>
 </ul>
 <h2 id="1-github-새-레포지토리-만들기">1. github 새 레포지토리 만들기</h2>
 <ul>
