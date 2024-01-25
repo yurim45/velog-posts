@@ -62,7 +62,7 @@ import os
 </code></pre></li>
 </ul>
 <h1 id="벨로그-rss-피드-url">벨로그 RSS 피드 URL</h1>
-<h1 id="example--rss_url--httpsapivelogiorssrimgosu">example : rss_url = '<a href="https://api.velog.io/rss/@april_5'">https://api.velog.io/rss/@april_5'</a></h1>
+<h1 id="example--rss_url--httpsapivelogiorssyurim45">example : rss_url = '<a href="https://api.velog.io/rss/@april_5'">https://api.velog.io/rss/@april_5'</a></h1>
 <p>rss_url = '<a href="https://api.velog.io/rss/@april_5">https://api.velog.io/rss/@[벨로그</a> 아이다]'</p>
 <h1 id="깃허브-레포지토리-경로">깃허브 레포지토리 경로</h1>
 <p>repo_path = '.'</p>
